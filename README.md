@@ -17,11 +17,6 @@
 
 ---
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=vinaymohan&theme=onedark&margin-w=15&margin-h=15)
-
----
-
 ## 🛠 Tech Stack
 
 ### 🚀 Web Development
@@ -39,9 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" height="24"/> Flutter  
 
 ### ⚙️ Other
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24"/> C  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24"/> C++  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> JavaScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24"/> Git
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24"/> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/> TypeScript
