@@ -25,22 +25,23 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Web Development
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)  
-[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/)  
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)  
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)  
-[![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)](https://nextjs.org/)  
-[![Prisma](https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg)](https://www.prisma.io/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="24" height="24"/> MongoDB  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24"/> Express.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/> React  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="24" height="24"/> Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="24" height="24"/> Next.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="24" height="24"/> Prisma  
 
 ### 🤖 AI / LLMs
-[![LangChain](https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg)](https://www.langchain.com/)
+<img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="24" height="24"/> LangChain  
 
 ### 📱 Mobile
-[![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://flutter.dev/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" height="24"/> Flutter  
 
 ### ⚙️ Other
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://en.wikipedia.org/wiki/C%2B%2B)  
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)  
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com/)  
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24"/> C  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24"/> C++  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24"/> Git
+
